@@ -120,7 +120,7 @@ ul { list-style: none; }
   display: flex;
   align-items: center;        /* centre verticalement le bloc texte */
   padding: 120px 20px 88px;   /* espace sous le header */
-  background-image: url("/hero-2025.jpg"); /* <-- change le nom ici si besoin */
+  background-image: url("/hero-2025.jpeg"); /* <-- change le nom ici si besoin */
   background-size: cover;     /* couvre l'écran (peut rogner sur les bords) */
   background-position: 50% 20%; /* remonte l'image pour mieux voir le visage */
   background-repeat: no-repeat;
